@@ -10,7 +10,7 @@
 
 ## Track your progress (strength, cardio and isometric) quickly and easily
 
-Now you can track your progress easily and quickly!
+Now you can track your fitness progress easily and quickly!
 You can create as many machines as you want with the name you want!
 It's your choice!
 
